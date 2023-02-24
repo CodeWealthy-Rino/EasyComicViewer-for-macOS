@@ -2,8 +2,8 @@
 //  AddTagWindow.swift
 //  MacComicReader
 //
-//  Created by RinoNanase on 2020/01/04.
-//  Copyright © 2020 RinoNanase. All rights reserved.
+//  Created by CodeWealthy-Rino on 2020/01/04.
+//  Copyright © 2020 CodeWealthy-Rino. All rights reserved.
 //
 
 import Cocoa

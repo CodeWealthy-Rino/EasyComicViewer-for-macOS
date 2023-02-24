@@ -2,8 +2,8 @@
 //  BookMarkViewModel.swift
 //  MacComicReader
 //
-//  Created by RinoNanase on 2019/12/19.
-//  Copyright © 2019 RinoNanase. All rights reserved.
+//  Created by CodeWealthy-Rino on 2019/12/19.
+//  Copyright © 2019 CodeWealthy-Rino. All rights reserved.
 //
 
 import Cocoa

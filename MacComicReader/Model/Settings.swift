@@ -2,8 +2,8 @@
 //  Setting.swift
 //  MacComicReader
 //
-//  Created by RinoNanase on 2021/01/04.
-//  Copyright © 2021 RinoNanase. All rights reserved.
+//  Created by CodeWealthy-Rino on 2021/01/04.
+//  Copyright © 2021 CodeWealthy-Rino. All rights reserved.
 //
 
 import Foundation
