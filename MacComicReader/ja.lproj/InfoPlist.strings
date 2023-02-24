@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  MacComicReader
+
+  Created by RinoNanase on 2021/01/11.
+  Copyright © 2021 RinoNanase. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "使いやすい漫画ビュワー";
+"CFBundleName" =  "使いやすい漫画ビュワー";
+

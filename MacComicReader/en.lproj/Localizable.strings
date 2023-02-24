@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  MacComicReader
+
+  Created by RinoNanase on 2020/10/25.
+  Copyright © 2020 RinoNanase. All rights reserved.
+*/
+
+"ORDER" = "Ordered by";
+"NAME" = "Name";
+"CDATE"="Creation Date";
+"MDATE"="Modified Date";
+"TYPE"="Type";
+"TAG"="Tag";
+"PATH"="Path";
+"SHOWS_FAVORITE_ONLY" = "shows favorite only";
+"SEARCH" = "Serach";
+"EDIT_TAGS" = "Edit tags";
+"ADD" = "Add";
+"TITLE" = "Title";
+"FOLDER" = "Folder";
+"IMAGE_FILE" = "Image File";
+"TAGS" = "Tags";
+"CLOSE" = "Close";
+"NEXT" = "Next";
+"BACK" = "Back";
+"NUMBER" = "Number";
+"DELETE_TOOLTIP" = "Delete book from library";
+"FOLDER_TOOLTIP" = "Open in Finder";
+"TAG_TOOLTIP" = "Edit tags";
+"DETAIL_TOOLTIP" = "View detail";
+"ADD_TOOLTIP" = "Add book to library";
+"CLOSE_TOOLTIP" = "Close this window";
+"ROTATE_TOOLTIP" = "Rotates image";
+"ZOOMIN_TOOLTIP" = "Zoomin image";
+"ZOOMOUT_TOOLTIP" = "ZoomOut image";
+"FIT_TO_PAGE_TOOLTIP" = "Fit to page";
+"GO_LEFT_TOOLTIP" = "Go to left";
+"GO_RIGHT_TOOLTIP" = "Go to right";
+
+"DOUBLE_SPREAD_TOOLTIP" = "Shows as double spread";
+"SHOW_THUMBNAIL_TOOLTIP" = "Shows thumbnail";
+
+"HEART_BUTTON_TOOLTIP" = "favorite";
+
+"VIEW_FAVORITE" = "Shows Favorite page";
+"LOAD_THUMB" = "Loading thumbnails...";
+
+"ODATE" = "Last Opend Date";
+"RDATE" = "Registered Date";
+
+"MESSAGE_DELETE_CONFIRM" = "Do you want to delete?";
+
+"START_DESCRIPTION"="Drag & Drop  image Folder/File, PDF or ZIP";
+
+"MENU_BEHAVIOR" = "Menu behavior on book viwer window";
+"NORMAL" = "Normal";
+"SHOWS_ON_MOUSEHOVER" = "Shows on mouse over";
+
+"DUPLICATE_FILE_NAME_ERROR" = "File with same name already registerd";
+
+"AUTHOR" = "author";

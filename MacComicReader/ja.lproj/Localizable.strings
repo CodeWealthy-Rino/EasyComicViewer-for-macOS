@@ -1,0 +1,58 @@
+/* 
+  Localizable.strings
+  MacComicReader
+
+  Created by RinoNanase on 2020/10/25.
+  Copyright © 2020 RinoNanase. All rights reserved.
+*/
+"ORDER" = "表示順";
+"NAME" = "名前";
+"CDATE"="作成日時";
+"MDATE"="編集日時";
+"TYPE"="種類";
+"TAG"="タグ";
+"PATH"="パス";
+"SHOWS_FAVORITE_ONLY" = "お気に入りのみ表示";
+"SEARCH" = "検索";
+"EDIT_TAGS" = "タグを編集";
+"ADD" = "追加";
+"TITLE" = "タイトル";
+"FOLDER" = "フォルダ";
+"IMAGE_FILE" = "画像ファイル";
+"TAGS" = "タグ";
+"CLOSE" = "閉じる";
+"NEXT" = "次へ";
+"BACK" = "戻る";
+"NUMBER" = "数字";
+"DELETE_TOOLTIP" = "ライブラリから本を削除";
+"FOLDER_TOOLTIP" = "Finderで開く";
+"TAG_TOOLTIP" = "タグの編集";
+"DETAIL_TOOLTIP" = "詳細の表示";
+"ADD_TOOLTIP" = "本をライブラリに追加";
+"CLOSE_TOOLTIP" = "ウインドウを閉じる";
+"ROTATE_TOOLTIP" = "画像を回転";
+"ZOOMIN_TOOLTIP" = "ズームイン";
+"ZOOMOUT_TOOLTIP" = "ズームアウト";
+"FIT_TO_PAGE_TOOLTIP" = "ページにFITする";
+"GO_LEFT_TOOLTIP" = "左のページへ";
+"GO_RIGHT_TOOLTIP" = "右のページへ";
+"DOUBLE_SPREAD_TOOLTIP" = "見開き表示";
+"SHOW_THUMBNAIL_TOOLTIP" = "サムネイルを表示";
+"HEART_BUTTON_TOOLTIP" = "お気に入り";
+"VIEW_FAVORITE" = "お気に入りページを表示";
+"LOAD_THUMB" = "サムネイル読み込み中...";
+
+
+"ODATE" = "最後に開いた日時";
+"RDATE" = "登録日時";
+
+"MESSAGE_DELETE_CONFIRM" = "本当に削除しますか？";
+
+"START_DESCRIPTION"="画像フォルダー/ファイル, PDFファイル, ZIPファイルをドラッグ&ドロップしてください。";
+
+"MENU_BEHAVIOR" = "読書画面 メニューの動作";
+"NORMAL" = "常に表示";
+"SHOWS_ON_MOUSEHOVER" = "マウスオーバー時に表示";
+"DUPLICATE_FILE_NAME_ERROR" = "同一のファイル名が既に登録されています。";
+
+"AUTHOR" = "作者";
